@@ -1,0 +1,297 @@
+{
+  "picle": {
+    "name": "Pickle Rick",
+    "volumes": {
+      "18": "1 Martini Glass",
+      "36": "2 Martini Glasses",
+      "54": "3 Martini Glasses",
+      "72": "4 Martini Glasses",
+      "90": "5 Martini Glasses",
+      "108": "6 Martini Glasses",
+      "126": "7 Martini Glasses",
+      "144": "8 Martini Glasses",
+      "162": "9 Martini Glasses",
+      "180": "10 Martini Glasses",
+      "198": "11 Martini Glasses",
+      "216": "12 Martini Glasses",
+      "234": "13 Martini Glasses",
+      "252": "here it is definitely necessary to stop !!!"
+    }
+  },
+  "sanchez": {
+    "name": "Rick Sanchez Tinkerer of Terror",
+    "volumes": {
+      "17": "1 Martini Glass",
+      "34": "2 Martini Glasses",
+      "51": "3 Martini Glasses",
+      "68": "4 Martini Glasses",
+      "85": "5 Martini Glasses",
+      "102": "6 Martini Glasses",
+      "119": "7 Martini Glasses",
+      "136": "8 Martini Glasses",
+      "153": "9 Martini Glasses",
+      "170": "10 Martini Glasses",
+      "187": "11 Martini Glasses",
+      "204": "12 Martini Glasses",
+      "221": "13 Martini Glasses",
+      "238": "here it is definitely necessary to stop !!!"
+    }
+  },
+  "wormhole": {
+    "name": "Take the Wormhole Out to Breakfast",
+    "volumes": {
+      "17": "1 Glass",
+      "34": "2 Glasses",
+      "51": "3 Glasses",
+      "68": "4 Glasses",
+      "85": "5 Glasses",
+      "102": "6 Glasses",
+      "119": "7 Glasses",
+      "136": "8 Glasses",
+      "153": "9 Glasses",
+      "170": "10 Glasses",
+      "187": "11 Glasses",
+      "204": "12 Glasses",
+      "221": "13 Glasses",
+      "238": "here it is definitely necessary to stop !!!"
+    }
+  },
+  "seattle": {
+    "name": "What used to be Seattle",
+    "volumes": {
+      "18": "1 Martini Glass",
+      "36": "2 Martini Glasses",
+      "54": "3 Martini Glasses",
+      "72": "4 Martini Glasses",
+      "90": "5 Martini Glasses",
+      "108": "6 Martini Glasses",
+      "126": "7 Martini Glasses",
+      "144": "8 Martini Glasses",
+      "162": "9 Martini Glasses",
+      "180": "10 Martini Glasses",
+      "198": "11 Martini Glasses",
+      "216": "12 Martini Glasses",
+      "234": "13 Martini Glasses",
+      "252": "here it is definitely necessary to stop !!!"
+    }
+  },
+  "slammer": {
+    "name": "Shoney’s Slammer",
+    "volumes": {
+      "15": "1 Highball glass",
+      "30": "2 Highball glasses",
+      "45": "3 Highball glasses",
+      "60": "4 Highball glasses",
+      "75": "5 Highball glasses",
+      "90": "6 Highball glasses",
+      "105": "7 Highball glasses",
+      "120": "8 Highball glasses",
+      "135": "9 Highball glasses",
+      "150": "10 Highball glasses",
+      "165": "11 Highball glasses",
+      "180": "12 Highball glasses",
+      "195": "13 Highball glasses",
+      "210": "here it is definitely necessary to stop !!!"
+    }
+  },
+  "sea-cucumber": {
+    "name": "Sea-Cucumber!",
+    "volumes": {
+      "15": "1 Martini Glass",
+      "30": "2 Martini Glasses",
+      "45": "3 Martini Glasses",
+      "60": "4 Martini Glasses",
+      "75": "5 Martini Glasses",
+      "90": "6 Martini Glasses",
+      "105": "7 Martini Glasses",
+      "120": "8 Martini Glasses",
+      "135": "9 Martini Glasses",
+      "150": "10 Martini Glasses",
+      "165": "11 Martini Glasses",
+      "180": "12 Martini Glasses",
+      "195": "13 Martini Glasses",
+      "210": "here it is definitely necessary to stop !!!"
+    }
+  },
+  "morty": {
+    "name": "The Creepy Morty",
+    "volumes": {
+      "17": "1 Glass",
+      "34": "2 Glasses",
+      "51": "3 Glasses",
+      "68": "4 Glasses",
+      "85": "5 Glasses",
+      "102": "6 Glasses",
+      "119": "7 Glasses",
+      "136": "8 Glasses",
+      "153": "9 Glasses",
+      "170": "10 Glasses",
+      "187": "11 Glasses",
+      "204": "12 Glasses",
+      "221": "13 Glasses",
+      "238": "here it is definitely necessary to stop !!!"
+    }
+  },
+  "Magnet": {
+    "name": "Red Head Magnet",
+    "volumes": {
+      "14": "1 Glass",
+      "28": "2 Glasses",
+      "42": "3 Glasses",
+      "56": "4 Glasses",
+      "70": "5 Glasses",
+      "84": "6 Glasses",
+      "98": "7 Glasses",
+      "112": "8 Glasses",
+      "126": "9 Glasses",
+      "140": "10 Glasses",
+      "154": "11 Glasses",
+      "168": "12 Glasses",
+      "182": "13 Glasses",
+      "196": "here it is definitely necessary to stop !!!"
+    }
+  },
+  "called": {
+    "name": "It’s Called a Hug, It Won’t Kill You",
+    "volumes": {
+      "15": "1 Highball glass",
+      "30": "2 Highball glasses",
+      "45": "3 Highball glasses",
+      "60": "4 Highball glasses",
+      "75": "5 Highball glasses",
+      "90": "6 Highball glasses",
+      "105": "7 Highball glasses",
+      "120": "8 Highball glasses",
+      "135": "9 Highball glasses",
+      "150": "10 Highball glasses",
+      "165": "11 Highball glasses",
+      "180": "12 Highball glasses",
+      "195": "13 Highball glasses",
+      "210": "here it is definitely necessary to stop !!!"
+    }
+  },
+  "commander-in-queef": {
+    "name": "Commander-in-Queef",
+    "volumes": {
+      "18": "1 Highball glass",
+      "36": "2 Highball glasses",
+      "54": "3 Highball glasses",
+      "72": "4 Highball glasses",
+      "90": "5 Highball glasses",
+      "108": "6 Highball glasses",
+      "126": "7 Highball glasses",
+      "144": "8 Highball glasses",
+      "162": "9 Highball glasses",
+      "180": "10 Highball glasses",
+      "198": "11 Highball glasses",
+      "216": "12 Highball glasses",
+      "234": "13 Highball glasses",
+      "252": "here it is definitely necessary to stop !!!"
+    }
+  },
+  "beer": {
+    "name":"Beer",
+    "volumes": {
+      "20": "0.5 liter",
+      "40": "1 liter",
+      "60": "1.5 liters",
+      "80": "2 liters",
+      "100": "2.5 liters",
+      "120": "3 liters",
+      "140": "3.5 liters",
+      "160": "4 liters",
+      "180": "4.5 liters",
+      "200": "5 liters",
+      "220": "5.5 liters",
+      "240": "6 liters",
+      "260": "and where it climbs into you !!!"
+    }
+  },
+  "wine": {
+    "name": "Wine",
+    "volumes": {
+      "13": "1 glass",
+      "30": "2 glasses",
+      "63": "3 glasses",
+      "84": "4 glasses",
+      "105": "5 glasses",
+      "126": "6 glasses",
+      "147": "7 glasses",
+      "168": "8 glasses",
+      "189": "9 glasses",
+      "210": "10 glasses",
+      "223": "11 glasses",
+      "236": "12 glasses",
+      "249": "13 glasses",
+      "262": "of course delicious, but enough!"
+    }
+  },
+  "port": {
+    "name": "Port wine",
+    "volumes": {
+      "12": "1 glass",
+      "24": "2 glasses",
+      "36": "3 glasses",
+      "48": "4 glasses",
+      "60": "4 glasses",
+      "72": "5 glasses",
+      "84": "6 glasses",
+      "96": "7 glasses",
+      "108": "8 glasses",
+      "120": "9 glasses",
+      "132": "11 glasses",
+      "144": "12 glasses",
+      "156": "13 glasses",
+      "168": "14 glasses",
+      "180": "15 glasses",
+      "192": "16 glasses",
+      "104": "Do you know what they drink for appetite ?!"
+    }
+  },
+  "vodka": {
+    "name": "Vodka",
+    "volumes": {
+      "15": "1 shot",
+      "30": "2 shots",
+      "45": "3 shots",
+      "60": "4 shots",
+      "75": "5 shots",
+      "90": "6 shots",
+      "105": "7 shots",
+      "120": "8 shots",
+      "135": "9 shots",
+      "150": "10 shots",
+      "165": "11 shots",
+      "180": "12 shots",
+      "195": "13 shots",
+      "210": "14 shots",
+      "225": "15 shots",
+      "240": "16 shots",
+      "255": "17 shots",
+      "270": "We understand everything, but maybe that's enough?"
+    }
+  },
+  "hooch": {
+    "name": "Grandfathers moonshine",
+    "volumes": {
+      "22": "1 shot",
+      "44": "2 shots",
+      "66": "3 shots",
+      "88": "4 shots",
+      "110": "5 shots",
+      "132": "6 shots",
+      "154": "7 shots",
+      "176": "8 shots",
+      "198": "9 shots",
+      "220": "10 shots",
+      "242": "10 shots",
+      "264": "10 shots",
+      "286": "10 shots",
+      "308": "10 shots",
+      "330": "10 shots",
+      "352": "10 shots",
+      "374": "10 shots",
+      "396": "Are you still alive? do not lie to us!"
+    }
+  }
+}

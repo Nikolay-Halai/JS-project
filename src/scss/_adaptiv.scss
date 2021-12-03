@@ -1,0 +1,27 @@
+@media (max-width: 750px) {
+
+    body {
+        font-size: 13px;
+    }
+
+    .header-container {
+        font-size: 15px;
+    }
+
+    #form {
+        min-width: 400px;
+        margin: 0 15px;
+
+        .bevarages {
+            flex-direction: column;
+
+            label {
+                align-items: center;
+            }
+        }
+    }
+
+    #btn-calk {
+        margin-bottom: 15px;
+    }
+}
