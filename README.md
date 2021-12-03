@@ -1,11 +1,11 @@
 
 alcohol calculator application, of 3 pages. to count alcohol intoxication.
 
-SSR -server side rendering
-JavaScript
-NodeJS
-HTML
-css
+SSR -server side rendering, 
+JavaScript, 
+NodeJS,
+HTML, 
+SCSS
 
 to launch the application: download all the files, 
   call the command in the terminal: npm instal
